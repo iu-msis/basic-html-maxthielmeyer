@@ -7,8 +7,25 @@
   color: crimson;
 }
 
+#bookTable{
+  margin-left: 20%;
+}
 
+#contactInfo{
+  font-size: 22px;
+}
 
+a:link{
+  color:green;
+}
 .content{
   text-align: center;
+}
+
+body{
+  background-color:tan;
+}
+
+input{
+  width:50%!important;
 }
