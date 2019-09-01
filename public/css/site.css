@@ -2,9 +2,13 @@
   background-color: rgb(255, 249, 208);
 }
 
-
-
 .titleLink{
   font-size: 28px;
   color: crimson;
+}
+
+
+
+.content{
+  text-align: center;
 }
